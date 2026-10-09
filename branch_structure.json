@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/go_modules/indexer/github.com/jackc/pgx/v5-5.11.0",
+    "dependabot/go_modules/indexer/github.com/stellar/go-stellar-sdk-0.7.3",
+    "dependabot/npm_and_yarn/packages/sdk/eslint-10.12.0",
+    "dependabot/npm_and_yarn/packages/sdk/stellar/freighter-api-6.0.1",
+    "dependabot/npm_and_yarn/packages/sdk/stellar/stellar-sdk-17.2.1",
+    "dependabot/npm_and_yarn/packages/sdk/typescript-eslint/eslint-plugin-8.71.1",
+    "dependabot/npm_and_yarn/packages/sdk/typescript-eslint/parser-8.71.1",
+    "main"
+  ],
+  "parent": {
+    "dependabot/go_modules/indexer/github.com/jackc/pgx/v5-5.11.0": "main",
+    "dependabot/go_modules/indexer/github.com/stellar/go-stellar-sdk-0.7.3": "main",
+    "dependabot/npm_and_yarn/packages/sdk/eslint-10.12.0": "main",
+    "dependabot/npm_and_yarn/packages/sdk/stellar/freighter-api-6.0.1": "main",
+    "dependabot/npm_and_yarn/packages/sdk/stellar/stellar-sdk-17.2.1": "main",
+    "dependabot/npm_and_yarn/packages/sdk/typescript-eslint/eslint-plugin-8.71.1": "main",
+    "dependabot/npm_and_yarn/packages/sdk/typescript-eslint/parser-8.71.1": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "dependabot/go_modules/indexer/github.com/jackc/pgx/v5-5.11.0",
+    "dependabot/go_modules/indexer/github.com/stellar/go-stellar-sdk-0.7.3",
+    "dependabot/npm_and_yarn/packages/sdk/eslint-10.12.0",
+    "dependabot/npm_and_yarn/packages/sdk/stellar/freighter-api-6.0.1",
+    "dependabot/npm_and_yarn/packages/sdk/stellar/stellar-sdk-17.2.1",
+    "dependabot/npm_and_yarn/packages/sdk/typescript-eslint/eslint-plugin-8.71.1",
+    "dependabot/npm_and_yarn/packages/sdk/typescript-eslint/parser-8.71.1"
+  ]
+}
